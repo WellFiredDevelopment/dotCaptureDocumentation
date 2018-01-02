@@ -1,5 +1,5 @@
 global.config = {
-    name:           'WellFired.Profile.Dcumentation',
+    name:           'WellFired.Capture.Documentation',
     sphinxInputDir: 'xml',
     sphinxOutputDir:'sphinx/source'
 }
